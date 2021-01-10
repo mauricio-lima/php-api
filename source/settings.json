@@ -1,0 +1,8 @@
+{
+    "database" : {
+        "driver"    : "MySQL",
+        "name"      : "db_name",
+        "user"      : "user",
+        "password"  : "password"
+    }
+}
